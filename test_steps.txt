@@ -1,0 +1,5 @@
+Launch browser
+Land on logging page
+Logging using mobile number and OTP
+Search for homestays in Goa
+List all available options with name of stay and price
